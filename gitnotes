@@ -12,3 +12,5 @@ git checkout hash-name
 git switch branch-name
 
 git switch -c new-branch
+
+newtext
