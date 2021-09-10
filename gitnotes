@@ -3,3 +3,12 @@
 3. git commit -m "message"
 OR
 2a git commit -a -m "message"
+
+
+git log
+
+git checkout hash-name
+
+git switch branch-name
+
+git switch -c new-branch
